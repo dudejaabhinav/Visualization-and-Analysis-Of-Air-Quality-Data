@@ -1,0 +1,10 @@
+dash
+dash_bootstrap_components
+dash_bootstrap_templates
+dash_mantine_components
+pandas
+plotly
+python_dateutil
+selenium
+ipywidgets
+webdriver-manager
